@@ -1,0 +1,30 @@
+/oauth-server/node_modules
+/oauth-server/.env
+
+/ui-app/node_modules
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/ui-app/.pnp
+/ui-app/.pnp.js
+
+# testing
+/ui-app/coverage
+
+# production
+/ui-app/build
+
+# misc
+/ui-app/.DS_Store
+/ui-app/.env.local
+/ui-app/.env.development.local
+/ui-app/.env.test.local
+/ui-app/.env.production.local
+
+/ui-app/npm-debug.log*
+/ui-app/yarn-debug.log*
+/ui-app/yarn-error.log*
+
+.DS_Store
